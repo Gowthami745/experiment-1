@@ -1,0 +1,3 @@
+Name: Gowthami Natchireddy
+Course: B.SC. Computer Science (Minor: Cloud Computing)
+One thing 1 learned about GitHub: GitHub helps me manage and share my code with others using version control.
